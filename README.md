@@ -19,12 +19,6 @@ From these above models after hyperparameter optimization we selected Top two mo
 
 * GridSearchCV is used for Hyperparameter Optimization in the pipeline.
 
-* Any modification has to be done in  Inside Config.yaml which can be done in route **/update_model_config**
-
-## `carprice` is the main package folder which contains 
-
-**Artifact** : Stores all artifacts created from running the application
-
 **Components** : Contains all components of Machine Learning Project
 - DataIngestion
 - DataValidation
