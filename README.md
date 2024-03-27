@@ -1,7 +1,4 @@
-
-Sure, here's a sample README file description for your used car price prediction project using data from the CarDekho website:
-
-Used Car Price Prediction with CarDekho Data
+#Used Car Price Prediction with CarDekho Data
 This project aims to predict the price of used cars using machine learning techniques. The dataset used for training and evaluation is sourced from the CarDekho website, which contains information about various cars including their features and prices.
 
 Table of Contents
